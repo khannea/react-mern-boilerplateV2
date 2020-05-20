@@ -1,4 +1,4 @@
 # Mern Boilerplate
 
 
-![Alt text](mern-boilerplate-screenshot.png?raw=true "mern-boilerplate")
+![Alt text](mern-boilerplate-screenshot1.png?raw=true "mern-boilerplate")
