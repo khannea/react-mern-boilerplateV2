@@ -71,7 +71,7 @@ function RegisterPage(props) {
             <Paper>
               <Box p={10}>
                 <form style={{ minWidth: "375px" }} onSubmit={handleSubmit}>
-                  <Grid container direction="column" spacing={3} center xs={8}>
+                  <Grid container direction="column" spacing={3}>
                     <Grid item xs={12}>
                       <Typography variant="h2">Sign up</Typography>
                     </Grid>
